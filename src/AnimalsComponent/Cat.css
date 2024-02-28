@@ -1,0 +1,38 @@
+.Cat_div {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  text-align: center;
+}
+.map_div {
+  margin: 8px;
+  width: 322px;
+  border: 2px solid gray;
+}
+.img {
+  width: 253px;
+  height: 189px;
+  border-radius: 5px;
+  margin: 10px;
+}
+.buttoncolor {
+  background-color: blue;
+}
+.btn {
+  width: 100px;
+  height: 30px;
+  border: none;
+  background-color: #f0490c;
+  color: #ffff;
+  cursor: pointer;
+  font-size: 15px;
+  border-radius: 5px;
+}
+.cat_div {
+  display: flex;
+  justify-content: center;
+}
+.icon {
+  color: red;
+  font-size: 25px;
+}

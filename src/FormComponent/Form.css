@@ -1,0 +1,30 @@
+.form_div {
+  width: 300px;
+  line-height: 29px;
+  height: 300px;
+  border: 2px solid #808080d1;
+  margin: 20px 439px;
+  background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000");
+  
+}
+.select {
+  width: 233px;
+  margin: 13px 0px;
+  height: 30px;
+  border-radius: 4px;
+  border: 2px solid gray;
+}
+.input {
+  width: 224px;
+  height: 28px;
+  border-radius: 5px;
+  border: 2px solid gr;
+}
+.img {
+  width: 300px;
+  height: 200px;
+  margin: 0px 40px;
+}
+.file {
+  margin: 25px 40px;
+}

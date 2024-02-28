@@ -1,0 +1,18 @@
+.favourites_animals {
+  display: flex;
+  flex-wrap: wrap;
+}
+.map_div {
+  margin: 8px;
+  width: 280px;
+  height: 300px;
+  border: 2px solid gray;
+}
+
+.img {
+  width: 253px;
+  height: 189px;
+  border-radius: 5px;
+  margin: 10px;
+}
+ 

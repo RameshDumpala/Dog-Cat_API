@@ -1,0 +1,12 @@
+.cat_dog{
+    display: flex;
+}
+.dog{
+    width: 271px;
+    border: 2px solid gray;
+    margin: 10px;
+}
+.cat{
+    width: 247px;
+    height: 187px;
+}

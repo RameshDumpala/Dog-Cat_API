@@ -1,0 +1,83 @@
+.header_div {
+  background-color: cadetblue;
+  width: auto;
+  height: auto;
+  display: flex;
+  justify-content: space-around;
+  line-height: 37px;
+  color: #ffff;
+  cursor: pointer;
+}
+.home{
+  background-color: orange;
+  border-radius: 4px;
+  padding: 4px;
+}
+.Favourite{
+  background-color: orange;
+  border-radius: 4px;
+  padding: 4px;
+}
+.Form{
+  background-color: orange;
+  border-radius: 4px;
+  padding: 4px;
+}
+.About{
+  background-color: orange;
+  border-radius: 4px;
+  padding: 4px;
+}
+
+.dog_cat {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #d6d3e3;
+}
+.Favorite_dog {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #360cf0;
+}
+.f_dog {
+  color: red;
+ border-bottom: 2px solid red;
+}
+.f_cat {
+  color: red;
+  border-bottom: 2px solid red;
+}
+.dog_btn{
+ color: red;
+ border-bottom: 2px solid red;
+ 
+}
+.cat_btn{
+ color: red;
+ border-bottom: 2px solid red;
+}
+ 
+.number {
+  position: absolute;
+  width: 20px;
+  height: 17px;
+  margin: -5px -9px;
+  background-color: black;
+  color: #FFFF;
+  border-radius: 100%;
+  padding: 1px;
+  left: 485px;
+
+}
+.catnumber {
+  position: absolute;
+  width: 20px;
+  height: 17px;
+  margin: -5px -9px;
+  background-color: black;
+  color: #FFFF;
+  border-radius: 100%;
+  padding: 1px;
+ left: 960px;
+
+}
